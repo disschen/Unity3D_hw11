@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="images" size="0.400000 0.280597" />
+    <ImageTarget name="water" size="0.200000 0.200000" />
+    <ImageTarget name="artest2" size="0.100000 0.133333" />
+    <ImageTarget name="artest1" size="0.200000 0.109200" />
+    <ImageTarget name="tictok" size="0.200000 0.133250" />
+    <ImageTarget name="dragon" size="0.050000 0.046231" />
+  </Tracking>
+</QCARConfig>
